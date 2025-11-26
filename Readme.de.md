@@ -28,6 +28,7 @@
     - [2. Interface konfigurieren](#2-interface-konfigurieren)
     - [3. Klipper Konfiguration](#3-klipper-konfiguration)
   - [Fertigungshinweise (BOM & PCB)](#fertigungshinweise-bom--pcb)
+  - [Lizenz](#lizenz)
 
 <!-- /code_chunk_output -->
 
@@ -157,3 +158,24 @@ canbus_uuid: <deine_uuid>
 
 Disclaimer:  
 Dieses Design arbeitet mit hohen Strömen und Spannungen. Nutzung auf eigene Gefahr. Stell sicher, dass Kabelquerschnitte für die Last des Lasers/Hotends ausgelegt sind.
+
+## Lizenz
+
+Dieses Projekt steht unter der **Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International Lizenz** (CC BY-NC-SA 4.0).
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+
+Dies bedeutet, Sie dürfen:
+- **Teilen** — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+- **Bearbeiten** — das Material remixen, verändern und darauf aufbauen
+
+Unter folgenden Bedingungen:
+- **Namensnennung** — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden
+- **Nicht kommerziell** — Sie dürfen das Material nicht für kommerzielle Zwecke nutzen
+- **Weitergabe unter gleichen Bedingungen** — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten
+
+Den vollständigen Lizenztext finden Sie unter: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+
+---
+
+> **Hinweis:** Dies ist die Originaldokumentation in deutscher Sprache. Eine englische Übersetzung finden Sie in [Readme.md](Readme.md).
