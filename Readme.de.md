@@ -1,6 +1,37 @@
 # ROCK 5B High-Power CAN-Bus & Power HAT ("The Beast")
 
+> 🌍 **Sprachen:** [English](Readme.md) | [Deutsch](Readme.de.md)
+
 ![3D view](img/hat.png)
+
+## Inhaltsverzeichnis
+
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [ROCK 5B High-Power CAN-Bus & Power HAT ("The Beast")](#rock-5b-high-power-can-bus--power-hat-the-beast)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Über das Projekt](#über-das-projekt)
+  - [Features & Technische Daten](#features--technische-daten)
+    - [⚡ Power Distribution (Split-Path Architektur)](#-power-distribution-split-path-architektur)
+    - [**🚀 Native CAN-Bus**](#-native-can-bus)
+    - [🔌 Poka-Yoke Anschlüsse](#-poka-yoke-anschlüsse)
+  - [Pinbelegung (Pinout)](#pinbelegung-pinout)
+    - [J102 \- TOOLHEAD (4-Pin Micro-Fit Quadrat)](#j102---toolhead-4-pin-micro-fit-quadrat)
+    - [J103 \- SPIDER / MCU (3-Pin Micro-Fit Reihe)](#j103---spider--mcu-3-pin-micro-fit-reihe)
+    - [J\_LCD \- MONITOR (4-Pin Micro-Fit Reihe)](#j_lcd---monitor-4-pin-micro-fit-reihe)
+  - [Status LEDs ("Mäusekino")](#status-leds-mäusekino)
+  - [Software Konfiguration (Radxa OS / Armbian)](#software-konfiguration-radxa-os--armbian)
+    - [1. Overlay aktivieren](#1-overlay-aktivieren)
+    - [2. Interface konfigurieren](#2-interface-konfigurieren)
+    - [3. Klipper Konfiguration](#3-klipper-konfiguration)
+  - [Fertigungshinweise (BOM & PCB)](#fertigungshinweise-bom--pcb)
+
+<!-- /code_chunk_output -->
+
+
 
 ## Über das Projekt
 
