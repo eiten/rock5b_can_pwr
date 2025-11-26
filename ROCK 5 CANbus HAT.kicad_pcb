@@ -7504,7 +7504,7 @@
 			(at 1.5 -10.12 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "666edbb2-0321-4b4c-aea4-9c73de3db1dc")
+			(uuid "c1ef396e-8da4-4c41-98ca-8b6818c19168")
 			(effects
 				(font
 					(size 1 1)
@@ -7515,7 +7515,7 @@
 		(property "Value" "Tool"
 			(at 1.5 5.7 90)
 			(layer "F.Fab")
-			(uuid "c0cf0702-b4c0-4aef-8616-cce3132e9447")
+			(uuid "a9985bda-d6f8-450b-b382-7ff7c3948090")
 			(effects
 				(font
 					(size 1 1)
@@ -7527,7 +7527,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c038f7cc-0e61-45c7-9211-a11c4dc966d0")
+			(uuid "e9da7100-1d22-4757-a2a6-1e2f8cb450de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7539,7 +7539,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8081369b-4e2f-4ec1-8830-c96339ee95d8")
+			(uuid "86b6539b-bca4-41b9-93f0-af4e90af4c49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7888,7 +7888,7 @@
 		)
 		(model "${KIPRJMOD}/3D/430450400.stp"
 			(offset
-				(xyz 1.5 4 2.5)
+				(xyz 1.5 4 3.4)
 			)
 			(scale
 				(xyz 1 1 1)
